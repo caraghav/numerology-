@@ -4,7 +4,7 @@ import json
 # Load predictions from JSON file
 @st.cache_data
 def load_data():
-    with open("numerology_dbgit.json", "r") as file:
+    with open("numerology_db.json", "r") as file:
         return json.load(file)
 
 # Function to calculate the Life Path Number (Destiny Number)
