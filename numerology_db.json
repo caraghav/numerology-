@@ -1,0 +1,52 @@
+{
+  "Life Path": {
+    "1": "**The Leader**: Independent, ambitious, and driven. Challenges: Impatience, arrogance. Ideal careers: Entrepreneurship, engineering.",
+    "2": "**The Diplomat**: Cooperative, intuitive. Challenges: Indecision. Careers: Counseling, diplomacy.",
+    "3": "**The Creator**: Artistic, optimistic. Challenges: Scattered energy. Careers: Writing, performing arts.",
+    "4": "**The Builder**: Practical, disciplined. Challenges: Rigidity. Careers: Architecture, project management.",
+    "5": "**The Adventurer**: Freedom-loving, adaptable. Challenges: Impulsiveness. Careers: Travel, sales.",
+    "6": "**The Nurturer**: Responsible, caring. Challenges: Overbearing. Careers: Teaching, healthcare.",
+    "7": "**The Seeker**: Analytical, spiritual. Challenges: Isolation. Careers: Research, philosophy.",
+    "8": "**The Achiever**: Ambitious, authoritative. Challenges: Workaholism. Careers: Finance, leadership.",
+    "9": "**The Humanitarian**: Compassionate, idealistic. Challenges: Martyrdom. Careers: Nonprofits, activism.",
+    "11": "**The Visionary**: Intuitive, inspirational. Challenges: Anxiety. Careers: Spirituality, invention.",
+    "22": "**The Master Builder**: Pragmatic visionary. Challenges: Overwhelm. Careers: Large-scale projects.",
+    "33": "**The Master Teacher**: Compassionate leader. Challenges: Emotional burnout. Careers: Healing, mentorship."
+  },
+  "Birthday": {
+    "1": "Natural leader. Thrives in competitive environments.",
+    "2": "Team player. Excels in partnerships.",
+    "3": "Creative communicator. Loves socializing.",
+    "4": "Detail-oriented. Values stability.",
+    "5": "Risk-taker. Craves freedom.",
+    "6": "Family-focused. Strong sense of duty.",
+    "7": "Deep thinker. Loves solitude.",
+    "8": "Goal-driven. Financially savvy.",
+    "9": "Idealistic. Drawn to humanitarian causes."
+  },
+  "Challenges": {
+    "1": "Learn humility and patience.",
+    "2": "Overcome indecision and dependency.",
+    "3": "Focus your energy and avoid superficiality.",
+    "4": "Embrace change and avoid stubbornness.",
+    "5": "Balance freedom with responsibility.",
+    "6": "Avoid controlling others.",
+    "7": "Connect with people emotionally.",
+    "8": "Avoid greed and materialism.",
+    "9": "Set boundaries to prevent burnout."
+  },
+  "Karmic Debt": {
+    "13": "Past misuse of power. Learn humility.",
+    "14": "Past addiction to freedom. Embrace commitment.",
+    "16": "Past arrogance. Cultivate empathy.",
+    "19": "Past authoritarianism. Practice collaboration."
+  },
+  "Combinations": {
+    "1-1": "Double leadership. Risk of ego clashes.",
+    "1-2": "Leader + Diplomat. Great for partnerships.",
+    "1-3": "Innovation + Creativity. Ideal for startups.",
+    "3-5": "Creativity + Adventure. Thrives in dynamic environments.",
+    "7-7": "Deep introspection. Risk of isolation.",
+    "8-8": "Financial mastery. Risk of greed."
+  }
+}
