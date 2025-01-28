@@ -65,11 +65,12 @@ if st.button("Generate Report"):
     for i, challenge in enumerate(report["Challenges"], 1):
         st.write(f"**Challenge {i} ({challenge})**: {numerology_db['Challenges'][str(challenge)]}")
     
-    # Karmic Debt
-    if report["Karmic Debt"]:
-        st.write("### Karmic Debt")
-        for debt in report["Karmic Debt"]:
-            st.write(f"- {numerology_db['Karmic Debt'][debt.split()[1]]}")
+if report["Karmic Debt"]:
+    st.write("### Karmic Debt")
+    for debt in report["Karmic Debt"]:
+        st.write(f"- {numerology_db['Karmic Debt'][debt.split()[1]]}")
+else:
+    st.write("No Karmic Debt found.")
     
     # Number Combinations
     st.write("### Powerful Combinations")
