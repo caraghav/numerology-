@@ -60,10 +60,11 @@ if st.button("Generate Report"):
     st.write(f"### Birthday Number: {birthday}")
     st.write(numerology_db["Birthday"][str(birthday)])
     
-    # Challenges
     st.write("### Life Challenges")
-    for i, challenge in enumerate(report["Challenges"], 1):
-        st.write(f"**Challenge {i} ({challenge})**: {numerology_db['Challenges'][str(challenge)]}")
+    for i, challenge in enumerate(challenges, start=1):
+        # Safely access challenge description
+        challenge_description = numerology_db["Challenges"].get(str(challenge), "Description not found")
+        st.write(f"**Challenge {i} ({challenge})**: {challenge_description}")
     
     # Karmic Debt
     if report["Karmic Debt"]:
